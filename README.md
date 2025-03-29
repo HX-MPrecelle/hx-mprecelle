@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin Precelle</h1>
 <br>
-<h3 align="center">Senior Backend Developer | NestJS, TypeScript, AWS | Passionate about building scalable and efficient systems</h3>
+<h3 align="center">Backend Developer | NestJS, TypeScript, AWS | Passionate about building scalable and efficient systems</h3>
 <br>
 
 - 🚀 Currently working as a **Ssr. Backend Developer at Henry**  
