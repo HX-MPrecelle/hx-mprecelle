@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 💼 **Ssr. Backend Developer @ Henry**
+- 💼 **Backend Developer @ Henry**
 - 🧠 Backend-focused engineer with experience building **scalable APIs**, **auth systems**, and **microservices**
 - ⚙️ Strong in **NestJS, TypeScript, PostgreSQL, AWS**, and event-driven architectures
 - 🤖 Interested in **AI integrations**, **automation**, and practical AI-powered products
